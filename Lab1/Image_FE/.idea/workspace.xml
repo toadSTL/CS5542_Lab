@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb5f98bc-12da-4db3-9f40-beeb5a88327a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Image_FE/Image_FE/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Image_FE/Image_FE/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000001375.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000012379.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000012757.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000028961.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000035030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000039708.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000039884.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000042418.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000045524.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000048489.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000049884.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000069934.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000073997.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000086117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000086514.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000093090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000093860.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000094863.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000095533.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000096754.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000098689.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000100865.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000103881.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000109199.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000109522.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000111842.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000111972.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000114424.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000114474.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000114705.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000116851.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000121556.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000125036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000128282.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000138368.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000139679.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000145127.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000156406.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000156836.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000163011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000163991.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000174282.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000194850.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000205367.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000210549.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000211281.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000213577.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000217463.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000218784.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000218939.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000223451.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000223827.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000238124.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000238399.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000238712.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000247545.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000249805.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000250639.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000250880.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000255941.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000262041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000262588.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000264884.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000273094.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000277491.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000278494.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000278697.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000280770.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000281105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000281850.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000284770.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000284964.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000293159.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000293979.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000299676.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000300024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000300467.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000306975.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000309635.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000318637.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000318937.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000321304.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000323030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000324603.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000327063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000327575.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000329394.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000330578.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000333258.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000333749.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000334981.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000337661.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000344599.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000348217.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000349744.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000350170.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000351610.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000354846.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000361930.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000362553.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000363318.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000364160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000365472.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000374904.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000376843.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000377716.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000378827.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000383756.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000388772.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000389188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000389638.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000389946.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000391971.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000392776.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000396330.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000397064.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000397772.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000401768.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000406772.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000408978.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000409134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000409374.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000431650.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000433985.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000435951.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000437816.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000440984.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000443296.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000456637.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000457207.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000457258.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000460115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000471261.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000472393.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000472938.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000479314.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000480451.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000482659.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000483304.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000483630.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000485499.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000486606.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000494257.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000496434.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000499274.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000517251.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000519533.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000522234.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000528870.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000529311.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000529624.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000534681.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000542090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000543769.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000544001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000544220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000545116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000548136.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000550652.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000553997.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000558871.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000559762.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000564496.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000565600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000575826.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/000000577488.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/court.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/court/courtStats.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/grove/000000019675.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/grove/000000149381.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/grove/000000207654.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/grove/000000273387.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/grove/000000334080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/grove/000000350969.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/grove/000000502616.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/grove/000000523026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/grove/000000557860.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/grove/000000562398.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/grove/grove.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/grove/groveStats.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000008881.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000035478.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000061830.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000063182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000067082.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000083262.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000104435.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000131731.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000147301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000148786.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000169282.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000183231.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000186179.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000190806.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000201930.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000202850.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000222344.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000228222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000307781.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000313134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000319522.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000361193.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000362524.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000393127.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000415839.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000416652.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000417887.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000421502.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000445517.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000471837.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000472455.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000494162.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000502616.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000528275.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000538748.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000546690.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/000000571803.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/meadow.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/meadow/meadowStats.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/playground/000000013362.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/playground/000000165319.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/playground/000000218711.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/playground/000000332038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/playground/000000333946.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/playground/000000389946.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/playground/000000393607.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/playground/000000470621.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/playground/000000510220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/playground/playground.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/playground/playgroundStats.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/row boat/000000052562.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/row boat/row boat.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/row boat/row boatStats.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/rowboat/000000279147.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/rowboat/000000427679.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/rowboat/000000540943.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/rowboat/rowboat.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/rowboat/rowboatStats.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000000109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000016317.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000017392.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000017946.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000027919.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000040143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000047734.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000050535.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000060602.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000061524.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000066878.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000069284.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000072509.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000073234.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000074461.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000099094.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000106194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000126536.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000129557.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000136736.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000138861.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000143386.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000145989.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000152341.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000159220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000166589.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000169863.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000184161.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000187810.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000211113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000214658.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000218196.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000225087.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000229138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000248280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000252272.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000258823.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000258890.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000269973.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000270035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000276950.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000277448.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000281262.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000293689.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000298141.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000309491.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000313710.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000315504.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000319766.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000335027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000360604.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000388106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000398177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000406359.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000417089.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000417619.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000418479.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000420403.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000420629.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000423829.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000428126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000445990.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000457169.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000466153.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000472922.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000478249.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000478577.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000484992.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000513237.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000515572.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000519186.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000520679.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000540863.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000553573.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000555833.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000572689.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000576956.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/000000578890.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/walkway.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_FE/data/walkway/walkwayStats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Lab1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Image_FE/Feature Extraction.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000218711.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000470621.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000332038.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000393607.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000389946.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000333946.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000510220.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Image_FE/Feature Extraction.ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1933" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Image_FE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Image_FE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Image_FE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Image_FE" type="462c0819:PsiDirectoryNode" />
+              <item name="Image_FE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Image_FE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Image_FE" type="462c0819:PsiDirectoryNode" />
+              <item name="Image_FE" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Image_FE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Image_FE" type="462c0819:PsiDirectoryNode" />
+              <item name="Image_FE" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="playground" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Image_FE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Image_FE" type="462c0819:PsiDirectoryNode" />
+              <item name="Image_FE" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="rowboat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Image_FE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Image_FE" type="462c0819:PsiDirectoryNode" />
+              <item name="Image_FE" type="462c0819:PsiDirectoryNode" />
+              <item name="google-image-recognition-tutorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Image_FE/Image_FE" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5542_Lab\Lab1\Image_FE\Image_FE\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Image_FE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb5f98bc-12da-4db3-9f40-beeb5a88327a" name="Default Changelist" comment="" />
+      <created>1550889437870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550889437870</updated>
+      <workItem from="1550889439643" duration="7539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7539000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15831557" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="4" visible="true" weight="0.19934994" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" side_tool="true" visible="true" weight="0.05383795" />
+      <window_info anchor="right" id="R Graphics" order="0" />
+      <window_info anchor="right" id="R Packages" order="1" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Image_FE/data/rowboat/rowboat.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_FE/data/rowboat/000000279147.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000165319.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000013362.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000470621.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000393607.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000333946.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000510220.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000389946.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000218711.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_FE/data/playground/000000332038.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_FE/Feature Extraction.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

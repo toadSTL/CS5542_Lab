@@ -21,7 +21,7 @@ object ExtractTrips {
     val sc=new SparkContext(sparkConf)
 
     // INITIALIZE VALUES
-    val keywords = Array("rowboat", "row boat", "playground", "grove", "walkway", "court", "meadow")
+    val keywords = Array("puddle", "leaf", "stick", "bark", "flower")
 
     val questionFile = "Data/cocoqa/release/train/questions.txt"
     val answerFile = "Data/cocoqa/release/train/answers.txt"
