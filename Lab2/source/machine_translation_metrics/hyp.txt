@@ -1,0 +1,4 @@
+1	the fast brown fox jumped over the lazy dog
+1	the quick red fox lept over the idle dog
+2	one two three four
+3	this statement shares no words

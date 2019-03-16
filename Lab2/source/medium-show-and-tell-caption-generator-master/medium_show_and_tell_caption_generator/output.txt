@@ -1,0 +1,3 @@
+imgID: trading_floor.jpg, Caption: a group of people sitting at tables in a room .
+imgID: trading_floor.jpg, Caption: a group of people sitting around a table with laptops .
+imgID: trading_floor.jpg, Caption: a group of people sitting at a table with laptops .
