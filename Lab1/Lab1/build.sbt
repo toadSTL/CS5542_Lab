@@ -1,6 +1,6 @@
 name := "Lab1"
 version := "1.0"
-scalaVersion := "2.11.8"
+scalaVersion := "2.12.8"
 mainClass in Compile := Some("ExtractTrips")
 
 // additional libraries
