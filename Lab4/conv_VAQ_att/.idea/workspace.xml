@@ -1,107 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dc1dc5f-c199-4746-bac6-d4580650c94c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/project/target/config-classes/$54ef78197f2c75675c23$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/project/target/config-classes/$54ef78197f2c75675c23$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/project/target/config-classes/$54ef78197f2c75675c23.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/project/target/config-classes/$54ef78197f2c75675c23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/project/target/config-classes/$a900ad3359d51d9c5c2e$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/project/target/config-classes/$a900ad3359d51d9c5c2e.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/project/target/config-classes/$a900ad3359d51d9c5c2e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$0208979fe9c0c2a9bd7d$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$0208979fe9c0c2a9bd7d$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$0208979fe9c0c2a9bd7d.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$0208979fe9c0c2a9bd7d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$070953827cef1e808141$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$070953827cef1e808141$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$070953827cef1e808141.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$070953827cef1e808141.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$27d3c07198ed22555055$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$27d3c07198ed22555055$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$27d3c07198ed22555055.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$27d3c07198ed22555055.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$d973106d05bd0607cfbd$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$d973106d05bd0607cfbd$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$d973106d05bd0607cfbd.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$d973106d05bd0607cfbd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$e474271bf9ac0bf8ac45$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$e474271bf9ac0bf8ac45$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$e474271bf9ac0bf8ac45.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$e474271bf9ac0bf8ac45.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$fcbedd72cec60b72c5fc$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$fcbedd72cec60b72c5fc$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$fcbedd72cec60b72c5fc$$anonfun$$sbtdef$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$fcbedd72cec60b72c5fc$$anonfun$$sbtdef$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$fcbedd72cec60b72c5fc$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$fcbedd72cec60b72c5fc.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/config-classes/$fcbedd72cec60b72c5fc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/default/lab1-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/default/lab1-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/default/lab1-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/default/lab1-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-docs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-sources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/resolution-cache/reports/default-lab1-build-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/scala-2.11/classes/CoreNLP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/scala-2.11/classes/ExtractTrips$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/scala-2.11/classes/ExtractTrips$$anonfun$imgIDtoFilename$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/scala-2.11/classes/ExtractTrips$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/scala-2.11/classes/ExtractTrips$$anonfun$main$2$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/scala-2.11/classes/ExtractTrips$$anonfun$main$2$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/scala-2.11/classes/ExtractTrips$$anonfun$main$2$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/scala-2.11/classes/ExtractTrips$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/scala-2.11/classes/ExtractTrips$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/scala-2.11/classes/ExtractTrips.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab2/source/machine_translation_metrics/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/source/machine_translation_metrics/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab2/source/machine_translation_metrics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/source/machine_translation_metrics/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5dc1dc5f-c199-4746-bac6-d4580650c94c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_loader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train_evaluate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-204">
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/From_Desktop/convolutional-vqa-master/Data/outdated/Dataset_1/Models_resnet_block4/training_log.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12391" selection-start-column="12373" selection-end-column="12391" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://D:/From_Desktop/convolutional-vqa-master/Data/outdated/Dataset_1/Models_vgg16_pool5/training_log.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12429" lean-forward="true" selection-start-column="12410" selection-end-column="12429" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -117,12 +66,41 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="conv_VAQ_att" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conv_VAQ_att" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="conv_VAQ_att" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conv_VAQ_att" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="conv_VAQ_att" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conv_VAQ_att" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="outdated" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="conv_VAQ_att" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conv_VAQ_att" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="outdated" type="462c0819:PsiDirectoryNode" />
+              <item name="Dataset_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/From_Desktop/convolutional-vqa-master/Data/training_log.json" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -149,15 +127,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556623719298</updated>
-      <workItem from="1556623724136" duration="602000" />
+      <workItem from="1556623724136" duration="2691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="602000" />
+    <option name="totallyTimeSpent" value="2691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -184,5 +163,39 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data_loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_evaluate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/From_Desktop/convolutional-vqa-master/Data/outdated/Dataset_1/Models_resnet_block4/training_log.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12391" selection-start-column="12373" selection-end-column="12391" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/From_Desktop/convolutional-vqa-master/Data/outdated/Dataset_1/Models_vgg16_pool5/training_log.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12429" lean-forward="true" selection-start-column="12410" selection-end-column="12429" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
